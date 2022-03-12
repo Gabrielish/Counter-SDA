@@ -1,0 +1,7 @@
+- ce este o componenta
+ ? este o incapsulare de cod de jsx care va fi transformat in html
+- 2 tipuri de componenta: functional si class component
+- what are props and how they are passed
+- state on class component
+- setState function
+- add event on class compnent
